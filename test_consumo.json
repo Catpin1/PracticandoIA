@@ -1,0 +1,32 @@
+[
+    {
+        "Date": "2024-11-01",
+        "Temperature": 20.5,
+        "Humidity": 65,
+        "Rainfall": 0,
+        "DayOfWeek": 4,
+        "Holiday": 0,
+        "Refrigerator": 1,
+        "Wifi": 1,
+        "Television": 1,
+        "WashingMachine": 0,
+        "ElectricOven": 1,
+        "Heater": 0,
+        "Fan": 0
+    },
+    {
+        "Date": "2024-11-02",
+        "Temperature": 15.3,
+        "Humidity": 70,
+        "Rainfall": 1,
+        "DayOfWeek": 5,
+        "Holiday": 0,
+        "Refrigerator": 1,
+        "Wifi": 1,
+        "Television": 1,
+        "WashingMachine": 1,
+        "ElectricOven": 1,
+        "Heater": 1,
+        "Fan": 0
+    }
+]
